@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Arena</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">로그인</string>
+    <string name="menu_search">search</string>
+    <string name="login_id">아이디   :</string>
+    <string name="login_pw">비밀번호 :</string>
+    <string name="login_write_id">아이디를 입력 하시오</string>
+    <string name="login_write_pw">비밀번호를 입력하시오</string>
+    <string name="login_membership">회원가입</string>
+    <string name="login_search_id">ID 찾기</string>
+    <string name="login_search_pw">PW 찾기</string>
+    <string name="contest_name">대회 이름</string>
+    <string name="contest_name_write">대회 이름을 입력하시오.</string>
+    <string name="contest_list">대회 종목</string>
+    <string-array name="game_list">
+        <item>리그 오브 레전드</item>
+        <item>배틀 그라운드</item>
+        <item>카트 라이더</item>
+        <item>스타크래프트</item>
+        <item>오버워치</item>
+    </string-array>
+    <string-array name="game_list2">
+        <item>전체</item>
+        <item>리그 오브 레전드</item>
+        <item>배틀 그라운드</item>
+        <item>카트 라이더</item>
+        <item>스타크래프트</item>
+        <item>오버워치</item>
+    </string-array>
+    <string name="contest_start_date">대회 시작 날짜</string>
+    <string name="join_start_date">참가 시작 날짜</string>
+    <string name="join_end_date">참가 종료 날짜</string>
+    <string name="date">날짜 입력</string>
+    <string name="cancel">취소</string>
+    <string name="next">다음</string>
+    <string name="contest_form">대회 형식</string>
+    <string name="max_namber">팀 최대 인원수</string>
+    <string name="private_exhibition">개인전</string>
+    <string name="team_game">팀전</string>
+    <string name="filed">온라인 / 오프라인</string>
+    <string name="online">온라인</string>
+    <string name="offline">오프라인</string>
+    <string name="place">장소</string>
+    <string name="back">뒤로</string>
+    <string name="finish">완료</string>
+    <string-array name="question_list">
+        <item>내 보물 1호는?</item>
+        <item>가장 좋아하는 색은?</item>
+        <item>나의 꿈은?</item>
+    </string-array>
+    <string name="overlapcheck">중복확인</string>
+    <string name="mid">아이디 입력     :</string>
+    <string name="mpw">비밀번호 입력   :</string>
+    <string name="repw">비민번호 재입력 :</string>
+    <string name="name">닉네임 입력     :</string>
+    <string name="write_name">닉네임을 입력하시오</string>
+    <string name="qanda">질문과 답변</string>
+    <string name="write_answer">답변을 입력하시오</string>
+    <string name="contest_content">대회 내용</string>
+    <string name="contest_write_content">대회 내용을 간략히 적으시오</string>
+    <string-array name="form_list">
+        <item>토너먼트</item>
+        <item>리그</item>
+        <item>기타</item>
+    </string-array>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="default_notification_channel_name" translatable="true">Test</string>
+</resources>
